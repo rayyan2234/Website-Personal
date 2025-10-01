@@ -1,5 +1,4 @@
 <html>
-<head>
     <td><b>NAMA:Muhammad Rayyan Budi Prahesa NIM:2511501435</b>
     <td><b>NAMA:Muhammad Riffat Morano NIM:2511501732<b>
         <br>
@@ -110,4 +109,3 @@
         </tbody>
     </table>
 </body>
-</html>
