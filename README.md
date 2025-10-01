@@ -1,6 +1,8 @@
 <html>
     <td><b>NAMA:Muhammad Rayyan Budi Prahesa NIM:2511501435</b>
+        
     <td><b>NAMA:Muhammad Riffat Morano NIM:2511501732<b>
+    
    <td><b>NAMA:Zidane Chelsea Moreno NIM:2512500642<b>
     <br>
          <td><b>NAMA:Khalishah Danish Ara NIM:2511502292<b>
