@@ -1,12 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <td><b>NAMA:Muhammad Rayyan Budi Prahesa NIM:2511501435</b></td>
-    <td><b>NAMA:Muhammad Riffat Morano NIM:2511501732<b></td>
+    <td><b>NAMA:Muhammad Rayyan Budi Prahesa NIM:2511501435</b>
+    <td><b>NAMA:Muhammad Riffat Morano NIM:2511501732<b>
         <br>
-   <td><b>NAMA:Zidane Chelsea Moreno NIM:2512500642<b></td>
+   <td><b>NAMA:Zidane Chelsea Moreno NIM:2512500642<b>
     <br>
-         <td><b>NAMA:Khalishah Danish Ara NIM:2511502292<b></td>
+         <td><b>NAMA:Khalishah Danish Ara NIM:2511502292<b>
 
 
     <title>Data Keuangan Usaha Rental Playstation</title>
@@ -107,8 +106,6 @@
                 <td>Rp.20.000</td>
                 <td>Maintenance</td>
             </tr>
-        </tbody>
-    </table>
 
         </tbody>
     </table>
