@@ -54,7 +54,6 @@
         }
 </style>
 
-</head>
 <body>
 
     <h2>Data Usaha Rental Playstation</h2>
